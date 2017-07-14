@@ -2,69 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6408226b-6cd7-471b-8d97-6fefd5c82354" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/BebasNeueBook.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Intro-Black-Alt.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Intro-Black-Caps.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Intro-Black-Inline-Caps.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Intro-Black-Inline.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Intro-Black-Italic.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Intro-Black.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Intro-Bold-Alt.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Intro-Bold-Caps.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Intro-Bold-Italic.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Intro-Bold.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Intro-Book-Alt.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Intro-Book-Caps.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Intro-Book-Italic.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Intro-Book.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Intro-Light-Alt.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Intro-Light-Caps.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Intro-Light-Italic.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Intro-Light.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Intro-Regular-Alt.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Intro-Regular-Caps.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Intro-Regular-Italic.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Intro-Regular.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Intro-Thin-Alt.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Intro-Thin-Caps.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Intro-Thin-Italic.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/Intro-Thin.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/bebasNeuebold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/found_dinamic/src/images/angle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/found_dinamic/src/images/close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/found_dinamic/src/images/facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/found_dinamic/src/images/google.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/found_dinamic/src/images/instagram.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/found_dinamic/src/images/mail.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/found_dinamic/src/images/marker.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/found_dinamic/src/images/massage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/found_dinamic/src/images/pets1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/found_dinamic/src/images/pets10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/found_dinamic/src/images/pets11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/found_dinamic/src/images/pets2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/found_dinamic/src/images/pets3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/found_dinamic/src/images/pets4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/found_dinamic/src/images/pets5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/found_dinamic/src/images/pets6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/found_dinamic/src/images/pets7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/found_dinamic/src/images/pets8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/found_dinamic/src/images/pets9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/found_dinamic/src/images/phone-icons-vector.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/found_dinamic/src/images/phone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/found_dinamic/src/images/plus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/found_dinamic/src/images/twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/found_dinamic/src/images/view.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/found_dinamic/src/images/Mail_icon-icons.com_71849.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/found_dinamic/src/images/angle-down.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/found_dinamic/src/images/date.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/found_dinamic/src/images/down.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/found_dinamic/src/images/plus.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/found_dinamic/src/images/user.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/userprofile/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/userprofile/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/userprofile/style.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/found/index.html" afterPath="$PROJECT_DIR$/found/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/found_dinamic/.gitignore" afterPath="$PROJECT_DIR$/found_dinamic/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/found_dinamic/index.html" afterPath="$PROJECT_DIR$/found_dinamic/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/found_dinamic/src/feed/FeedList.vue" afterPath="$PROJECT_DIR$/found_dinamic/src/feed/FeedList.vue" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -114,30 +55,20 @@
       <file leaf-file-name="FeedList.vue" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/found_dinamic/src/feed/FeedList.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="1" column="20" lean-forward="false" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+            <state relative-caret-position="63">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding>
-                <element signature="e#130#151#0" expanded="true" />
+                <element signature="e#131#152#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/found_dinamic/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="115" column="47" lean-forward="false" selection-start-line="115" selection-start-column="47" selection-end-line="115" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/found_dinamic/webpack.config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            <state relative-caret-position="419">
+              <caret line="117" column="5" lean-forward="false" selection-start-line="117" selection-start-column="5" selection-end-line="117" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -235,10 +166,11 @@
         <option value="$PROJECT_DIR$/found_dinamic/src/feed/FeedItem.vue" />
         <option value="$PROJECT_DIR$/found_dinamic/src/App.vue" />
         <option value="$PROJECT_DIR$/found_dinamic/src/feed/App.vue" />
-        <option value="$PROJECT_DIR$/found_dinamic/src/feed/FeedList.vue" />
         <option value="$PROJECT_DIR$/found/index.html" />
-        <option value="$PROJECT_DIR$/found_dinamic/index.html" />
         <option value="$PROJECT_DIR$/found_dinamic/webpack.config.js" />
+        <option value="$PROJECT_DIR$/found_dinamic/src/feed/FeedList.vue" />
+        <option value="$PROJECT_DIR$/found_dinamic/index.html" />
+        <option value="$PROJECT_DIR$/found_dinamic/.gitignore" />
       </list>
     </option>
   </component>
@@ -477,12 +409,12 @@
       <option name="presentableId" value="Default" />
       <updated>1499854849779</updated>
       <workItem from="1499854851234" duration="26907000" />
-      <workItem from="1500010524356" duration="4177000" />
+      <workItem from="1500010524356" duration="5322000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31084000" />
+    <option name="totallyTimeSpent" value="32229000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -756,16 +688,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/found_dinamic/src/feed/FeedList.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="20" lean-forward="false" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-          <folding>
-            <element signature="e#130#151#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/found/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
@@ -782,18 +704,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/found_dinamic/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="115" column="47" lean-forward="false" selection-start-line="115" selection-start-column="47" selection-end-line="115" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/found_dinamic/webpack.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/found_dinamic/src/feed/FeedList.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#131#152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/found_dinamic/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/found_dinamic/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="117" column="5" lean-forward="false" selection-start-line="117" selection-start-column="5" selection-end-line="117" selection-end-column="5" />
           <folding />
         </state>
       </provider>

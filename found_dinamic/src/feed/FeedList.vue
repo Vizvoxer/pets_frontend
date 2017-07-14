@@ -1,6 +1,7 @@
 <template>
   <div class="c-find">
    <feed-item v-for="elem in store" :elem="elem"> </feed-item>
+
   </div>
 </template>
 
